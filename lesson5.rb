@@ -7,3 +7,4 @@ elsif total_price == 100
 else
   puts "みかんを購入することができません。"
 end
+
